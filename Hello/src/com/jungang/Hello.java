@@ -18,6 +18,7 @@ public class Hello {
 		// 출력문장
 		System.out.println("Hello");
 		System.out.println("반갑습니다.");
+		System.out.println("반갑습니다.22");
 
 	}
 
