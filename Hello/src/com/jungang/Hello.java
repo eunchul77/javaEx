@@ -21,6 +21,8 @@ public class Hello {
 		System.out.println("반갑습니다.22");
 		System.out.println("반갑습니다.22");
 		System.out.println("반갑습니다.44");
+		System.out.println("반갑습니다.44");
+		System.out.println("새로운 추가 2");
 	}
 
 }
