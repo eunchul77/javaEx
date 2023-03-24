@@ -1,5 +1,6 @@
 package member;
 
+
 public class Member {
 
 	String name;
